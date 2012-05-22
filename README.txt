@@ -1,0 +1,1 @@
+A thread-safe C# Ring Buffer.
